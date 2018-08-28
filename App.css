@@ -1,0 +1,21 @@
+body {
+  color: black;
+  font-size: 15px;
+}
+
+label {
+  display: inline-block;
+  margin-top: 3px;
+}
+
+input {
+  margin: 5px;
+}
+
+h3 {
+  text-align: center;
+}
+
+#dashboard label {
+  margin-left: 25px;
+}
